@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\REPOS\\001-FinTail\\api\\tailfinAPI.csproj": {}
+    "C:\\REPOS\\001-fintail\\api\\tailfinAPI.csproj": {}
   },
   "projects": {
-    "C:\\REPOS\\001-FinTail\\api\\tailfinAPI.csproj": {
+    "C:\\REPOS\\001-fintail\\api\\tailfinAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\REPOS\\001-FinTail\\api\\tailfinAPI.csproj",
+        "projectUniqueName": "C:\\REPOS\\001-fintail\\api\\tailfinAPI.csproj",
         "projectName": "tailfinAPI",
-        "projectPath": "C:\\REPOS\\001-FinTail\\api\\tailfinAPI.csproj",
+        "projectPath": "C:\\REPOS\\001-fintail\\api\\tailfinAPI.csproj",
         "packagesPath": "C:\\Users\\jhonatan.landes\\.nuget\\packages\\",
-        "outputPath": "C:\\REPOS\\001-FinTail\\api\\obj\\",
+        "outputPath": "C:\\REPOS\\001-fintail\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

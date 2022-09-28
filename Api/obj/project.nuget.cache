@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "25u7bZQKg6zZvH3d8admUvTkeht5c0kZsY/1AjIF7z98yKBr92ZaU5uIeee0bL5jXg147CDdRBEu8FbzlkUsiA==",
+  "dgSpecHash": "HSGbAk1dXHFHc2MZFVHgm2HlSzjGgXjCFIEN3aeDC6jnTCSiIPQXsVztMsuA90ARPvopFQX3+xeHYUnHASRbpQ==",
   "success": true,
-  "projectFilePath": "C:\\REPOS\\001-FinTail\\api\\tailfinAPI.csproj",
+  "projectFilePath": "C:\\REPOS\\001-fintail\\api\\tailfinAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jhonatan.landes\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jhonatan.landes\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.9\\microsoft.data.sqlite.core.6.0.9.nupkg.sha512",

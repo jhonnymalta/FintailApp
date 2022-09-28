@@ -5,6 +5,7 @@ using tailfinAPI.models;
 namespace tailfinAPI.Controllers;
 
 [ApiController]
+[Route("categories")]
 public class CategoryController : ControllerBase
 {
 
